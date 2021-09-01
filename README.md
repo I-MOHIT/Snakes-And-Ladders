@@ -26,3 +26,6 @@
 # Future Scope
 - The game can be played by more than one dices. (i.e. if there are two dices then the numbers from 2 to 12 will be generated).
 - On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.
+
+# Class Diagram
+![SnakesAndLadder](https://user-images.githubusercontent.com/25343984/131736907-ff5f3318-e7ae-46a8-bc47-440d713a1605.png)
